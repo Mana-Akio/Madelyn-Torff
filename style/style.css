@@ -138,8 +138,8 @@ nav {
   bottom: 43.3rem;
   float: right;
   z-index: -1;
-  -webkit-mask-image: url(./Image/yellow-bg.png);
-  mask-image: url(./Image/yellow-bg.png);
+  -webkit-mask-image: url(./yellow-bg.png);
+  mask-image: url(.yellow-bg.png);
 }
 
 .wrapper {
