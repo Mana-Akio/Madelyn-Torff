@@ -1,0 +1,23 @@
+nav li a:hover {
+    color: white;
+    transition: color .2s ease-in-out;
+}
+
+.col-left button:hover{
+    background-color: var(--bg-line);
+    color: white;
+    border-color: white;
+    transition: all .3s ease-in-out;
+
+}
+
+#btn1:hover{
+    background-color: transparent;
+    transition: all .3s ease-in-out;
+}
+
+#btn2:hover{
+    background-color: var(--bg-line);
+    color: white;
+    transition: all .3s ease-in-out;
+}
