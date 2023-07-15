@@ -43,6 +43,8 @@ nav {
 .menu-nav-icon {
   width: 2rem;
   height: 2rem;
+    margin: 1rem;
+
   color: var(--gray-1);
 }
 
