@@ -21,3 +21,9 @@ nav li a:hover {
     color: white;
     transition: all .3s ease-in-out;
 }
+
+.leftside button:hover{
+    background-color: transparent;
+    transition: all .3s ease-in-out;
+    cursor: pointer;
+}
